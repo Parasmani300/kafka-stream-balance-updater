@@ -23,3 +23,4 @@ kafka-console-consumer.bat --bootstrap-server 127.0.0.1:9092 \
 
 ### Avro formatter from json:
 https://toolslick.com/text/formatter/json
+https://toolslick.com/generation/metadata/avro-schema-from-json
