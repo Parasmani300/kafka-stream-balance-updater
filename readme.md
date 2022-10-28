@@ -19,3 +19,7 @@ kafka-console-consumer.bat --bootstrap-server 127.0.0.1:9092 \
 --property print.value=true \
 --property key.deserializer=org.apache.kafka.common.serialization.StringDeserializer \
 --propertyvalue.deserializer=org.apache.kafka.common.serialization.LongDeserializer
+
+
+### Avro formatter from json:
+https://toolslick.com/text/formatter/json
