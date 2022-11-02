@@ -26,3 +26,6 @@ https://toolslick.com/text/formatter/json
 #Link 2
 
 https://toolslick.com/generation/metadata/avro-schema-from-json
+
+#JSON Serializer
+https://github.com/apache/kafka/blob/2.1/streams/examples/src/main/java/org/apache/kafka/streams/examples/pageview/PageViewTypedDemo.java#L83
