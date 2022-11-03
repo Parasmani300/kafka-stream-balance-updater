@@ -1,0 +1,19 @@
+{
+  "name": "SampleClass",
+  "type": "record",
+  "namespace": "com.github.parasmani300.balanceupater.avro",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "string"
+    }
+  ]
+}

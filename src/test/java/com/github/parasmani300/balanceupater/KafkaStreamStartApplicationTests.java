@@ -1,4 +1,4 @@
-package com.github.parasmani300.kafkastreamstart;
+package com.github.parasmani300.balanceupater;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
